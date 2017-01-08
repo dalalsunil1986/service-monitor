@@ -1,2 +1,2 @@
 # commons-communication
-A generic communication framework for java
+A generic service-monitoring framework for java
